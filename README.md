@@ -25,7 +25,9 @@ python3 main.py
 
 ## Control Reference
 
+-
 ⬆ -- switch the shape
+-
 ⬅ -- move to left
 ➡️ -- move to right
 ⬇ -- quickly down
