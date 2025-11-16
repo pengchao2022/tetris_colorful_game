@@ -25,12 +25,10 @@ python3 main.py
 
 ## Control Reference
 
--
-⬆ -- switch the shape
--
-⬅ -- move to left
-➡️ -- move to right
-⬇ -- quickly down
-M -- turn on /off the music
-R -- Restart the game
-ESC -- Exit the game
+- **⬆** -- switch the shape
+- **⬅** -- move to left  
+- **➡️** -- move to right
+- **⬇** -- quickly down
+- **M** -- turn on /off the music
+- **R** -- Restart the game
+- **ESC** -- Exit the game
